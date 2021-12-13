@@ -1,0 +1,10 @@
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\“ServerCodeMtk-P2-002.exe.config
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\“ServerCodeMtk-P2-002.exe
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\“ServerCodeMtk-P2-002.pdb
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\patnew2.dll
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\patnew2.pdb
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\bin\Debug\patnew2.dll.config
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\obj\Debug\“ServerCodeMtk-P2-002.csprojAssemblyReference.cache
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\obj\Debug\“ServerCodeMtk-P2-002.csproj.CopyComplete
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\obj\Debug\“ServerCodeMtk-P2-002.exe
+D:\semester 5 PAT\“ServerCodeMtk-P2-002\“ServerCodeMtk-P2-002\obj\Debug\“ServerCodeMtk-P2-002.pdb
